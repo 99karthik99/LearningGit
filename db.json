@@ -2,34 +2,34 @@
 "books" : 
 [
 	{
-		id : "1",
-		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577016235l/52754070.jpg" ,
-		title: "Little Disasters: A Novel",
-		description : "Liz Trenchard is an experienced pediatrician with a duty to protect all children admitted to her busy emergency room. So when her friend Jess turns up at the ER one night with her baby girl and a story that doesn’t quite add up, Liz is forced to question everything she thought she knew about her friend and about herself. There are so many secrets and so many lies. The truth can’t come soon enough."
+		"id" : "1",
+		"url" :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577016235l/52754070.jpg" ,
+		"title": "Little Disasters: A Novel",
+		"description" : "Liz Trenchard is an experienced pediatrician with a duty to protect all children admitted to her busy emergency room. So when her friend Jess turns up at the ER one night with her baby girl and a story that doesn’t quite add up, Liz is forced to question everything she thought she knew about her friend and about herself. There are so many secrets and so many lies. The truth can’t come soon enough."
 	},
 	{
-		id : "2",
-		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579057612l/48613336.jpg" ,
-		title: "The Truth Hurts",
-		description : "Caught up in a whirlwind romance that starts in sunny Ibiza and leads to the cool corridors of a luxurious English country estate, Poppy barely has time to catch her breath, let alone seriously question if all this is too good to be true. Drew is enamored, devoted, and, okay, a little mysterious—but that's part of the thrill. What's the harm in letting his past remain private? "
+		"id" : "2",
+		"url" :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579057612l/48613336.jpg" ,
+		"title": "The Truth Hurts",
+		"description" : "Caught up in a whirlwind romance that starts in sunny Ibiza and leads to the cool corridors of a luxurious English country estate, Poppy barely has time to catch her breath, let alone seriously question if all this is too good to be true. Drew is enamored, devoted, and, okay, a little mysterious—but that's part of the thrill. What's the harm in letting his past remain private? "
 	},
 	{
-		id : "3",
-		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568255034l/50928635._SX318_SY475_.jpg" ,
-		title: "She",
-		description : "She’s everything he dreamed of. Isn’t she?\n Ben can’t believe his luck when the beautiful Bella walks into his life, just when he needs her most.\nStill bruised and vulnerable since breaking-up with long-term girlfriend, Charlotte, he falls head over heels in love."
+		"id" : "3",
+		"url" :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568255034l/50928635._SX318_SY475_.jpg" ,
+		"title": "She",
+		"description" : "She’s everything he dreamed of. Isn’t she?\n Ben can’t believe his luck when the beautiful Bella walks into his life, just when he needs her most.\nStill bruised and vulnerable since breaking-up with long-term girlfriend, Charlotte, he falls head over heels in love."
 	},
 	{
-		id : "4",
-		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579120131l/44639828._SY475_.jpg" ,
-		title: "The Wrong Move",
-		description : "A dark, twisty domestic thriller about the perfect flatshare gone wrong for fans of Shari Lapena's The Couple Next Door and Louise Candlish's Our House.\nIT WAS THE PERFECT FLAT\n After a seemingly endless search, Jessie thinks she's finally found a decent place to live in the four-bedroom flat at Maver Place."
+		"id" : "4",
+		"url" :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579120131l/44639828._SY475_.jpg" ,
+		"title": "The Wrong Move",
+		"description" : "A dark, twisty domestic thriller about the perfect flatshare gone wrong for fans of Shari Lapena's The Couple Next Door and Louise Candlish's Our House.\nIT WAS THE PERFECT FLAT\n After a seemingly endless search, Jessie thinks she's finally found a decent place to live in the four-bedroom flat at Maver Place."
 	},
 	{
-		id : "5",
-		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580918671l/49120503._SY475_.jpg" ,
-		title: "The Leaving Party",
-		description : "Every year on the same day, on the anniversary, I receive a single black rose. Thirteen years of dark petals, jagged thorns, dredging up memories I’ve tried to forget…\n I’ve packed up my life. All my belongings are carefully sealed in labelled boxes, my suitcases ready for my big move. I’m just days away from a new life abroad with my boyfriend, Ben."
+		"id" : "5",
+		"url" :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580918671l/49120503._SY475_.jpg" ,
+		"title": "The Leaving Party",
+		"description" : "Every year on the same day, on the anniversary, I receive a single black rose. Thirteen years of dark petals, jagged thorns, dredging up memories I’ve tried to forget…\n I’ve packed up my life. All my belongings are carefully sealed in labelled boxes, my suitcases ready for my big move. I’m just days away from a new life abroad with my boyfriend, Ben."
 	}
 ]
 }
