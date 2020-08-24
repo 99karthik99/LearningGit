@@ -17,27 +17,19 @@
 		id : "3",
 		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568255034l/50928635._SX318_SY475_.jpg" ,
 		title: "She",
-		description : "She’s everything he dreamed of. Isn’t she?\n" +
-			"Ben can’t believe his luck when the beautiful Bella walks into his life, just when he needs her most.\n" +
-			"\n" +
-			"Still bruised and vulnerable since breaking-up with long-term girlfriend, Charlotte, he falls head over heels in love."
+		description : "She’s everything he dreamed of. Isn’t she?\n Ben can’t believe his luck when the beautiful Bella walks into his life, just when he needs her most.\nStill bruised and vulnerable since breaking-up with long-term girlfriend, Charlotte, he falls head over heels in love."
 	},
 	{
 		id : "4",
 		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579120131l/44639828._SY475_.jpg" ,
 		title: "The Wrong Move",
-		description : "A dark, twisty domestic thriller about the perfect flatshare gone wrong for fans of Shari Lapena's The Couple Next Door and Louise Candlish's Our House.\n" +
-			"\n" +
-			"IT WAS THE PERFECT FLAT\n" +
-			"After a seemingly endless search, Jessie thinks she's finally found a decent place to live in the four-bedroom flat at Maver Place."
+		description : "A dark, twisty domestic thriller about the perfect flatshare gone wrong for fans of Shari Lapena's The Couple Next Door and Louise Candlish's Our House.\nIT WAS THE PERFECT FLAT\n After a seemingly endless search, Jessie thinks she's finally found a decent place to live in the four-bedroom flat at Maver Place."
 	},
 	{
 		id : "5",
 		url :"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580918671l/49120503._SY475_.jpg" ,
 		title: "The Leaving Party",
-		description : "Every year on the same day, on the anniversary, I receive a single black rose. Thirteen years of dark petals, jagged thorns, dredging up memories I’ve tried to forget…\n" +
-			"\n" +
-			"I’ve packed up my life. All my belongings are carefully sealed in labelled boxes, my suitcases ready for my big move. I’m just days away from a new life abroad with my boyfriend, Ben."
+		description : "Every year on the same day, on the anniversary, I receive a single black rose. Thirteen years of dark petals, jagged thorns, dredging up memories I’ve tried to forget…\n I’ve packed up my life. All my belongings are carefully sealed in labelled boxes, my suitcases ready for my big move. I’m just days away from a new life abroad with my boyfriend, Ben."
 	}
 ]
 }
